@@ -8,6 +8,6 @@ The code was made with Processing3
 ![image](./img/20110661_RecursiveBlossom.png)
 
 ![image](./img/Image-1041.jpg)	
-![image](./img/Image-1043.jpg.jpg)	
+![image](./img/Image-1043.jpg)	
 ![image](./img/Image-1067.jpg)
 ![image](./img/Image-1099.jpg)
