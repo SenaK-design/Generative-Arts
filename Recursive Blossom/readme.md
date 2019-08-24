@@ -1,7 +1,7 @@
 
 # Recursive Blossom
 This code Generates blossom-like image by recursive call of function.
-Each images are randomly generated.
+Each images are randomly generated.  
 The code was made with Processing3
 
 ## Sample outputs
